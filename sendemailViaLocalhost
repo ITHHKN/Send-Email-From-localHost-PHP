@@ -2,7 +2,7 @@ $msg = '';
 	
 	$mg_api = 'key-4vyeldmso9oe3t8gitphksdwz9p0tpw5';
             $mg_version = 'api.mailgun.net/v2/';
-            $mg_domain = "fountaintechies.com";
+            $mg_domain = "inspiretechnology.com";
            // $mg_from_email = "syed_@yahoo.com";
             $mg_message_url = "https://".$mg_version.$mg_domain."/messages";
             $ch = curl_init();
