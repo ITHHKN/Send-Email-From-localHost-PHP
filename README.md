@@ -1,4 +1,4 @@
-# Send-Email-From-localHost-PHP
+# Send Email using Mailgun with PHP 
 
 Send Email From Loaclhost Via Mailgun with PHP 
 
